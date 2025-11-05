@@ -1,8 +1,10 @@
 # openmenu
 
-A fork of megavolt85's openMenu software, a replacement menu for the GDEMU
-optical drive emulator for the Sega Dreamcast. This version is built using the
-KallistiOS (KOS) SDK.
+A fork of [sbstnc's fork of openMenu](https://github.com/sbstnc/openmenu). 
+
+A replacement menu for the GDEMU optical drive emulator for the Sega Dreamcast. 
+This version is built using the KallistiOS (KOS) 2.1.0 SDK with custom patching
+for GDFS support.
 
 ## Table of Contents
 
