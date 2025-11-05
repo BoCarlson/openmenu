@@ -1,4 +1,4 @@
-# openmenu
+# openMenu
 
 A fork of [sbstnc's fork of openMenu](https://github.com/sbstnc/openmenu). 
 
