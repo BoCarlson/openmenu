@@ -214,6 +214,13 @@ modify the build process):
     # Build using the 'dc-release' preset configuration
     cmake --build --preset dc-release
     ```
+7.  Build the tools
+    ```bash
+    # Configure using the 'native-tools-release' preset
+    cmake --preset native-tools-release
+    # Build using the 'native-tools-release' preset configuration
+    cmake --build --preset native-tools-release
+    ```
 
 ## Usage
 
