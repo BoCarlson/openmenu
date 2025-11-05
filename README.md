@@ -194,7 +194,7 @@ modify the build process):
     ```
 3.  Build the Docker container
     ```bash
-    docker run --name openmenu-dev -it -d -v ./..:/src:rw openmenu-dev
+    docker run --name openmenu-dev -it -d -v ./..:/openmenu:rw openmenu-dev
     ```
 4.  Open bash in container
     ```bash
@@ -202,7 +202,7 @@ modify the build process):
     ```
 5.  Change to source directory in the container
     ```bash
-    cd /src
+    cd /openmenu
     ```
 6.  Build the application
     ```bash
