@@ -8,15 +8,16 @@ for GDFS support.
 
 ## Table of Contents
 
-- Prerequisites (Native Build)
-- Compilation (Native Build)
-- Development using Dev Containers
-  - Using the Pre-built Image (Recommended)
-  - Building the Dev Container Image Locally
-- Usage
-- Contributing
-- License
-- Acknowledgements
+- [Prerequisites (Native Build)](#prerequisites-native-build)
+- [Compilation (Native Build)](#compilation-native-build)
+- [Development using Dev Containers (Currently Broken)](#development-using-dev-containers)
+  - [Using the Pre-built Image (Recommended)](#using-the-pre-built-image-recommended)
+  - [Building the Dev Container Image Locally](#building-the-dev-container-image-locally)
+- [Compiling in Docker Container without VSCode Dev Container](#compiling-in-docker-container-without-vscode-dev-container)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Prerequisites (Native Build)
 
