@@ -87,6 +87,9 @@ environment variable must be set.
 
 ## Development using Dev Containers
 
+**NOTE: This feature is currently broken in VS Code as of 2025-11-5. Please use
+the [Compiling in Docker Container without VSCode Dev Container](#compiling-in-docker-container-without-vscode-dev-container) instructions to build**
+
 This project includes a Dev Container configuration for a consistent and
 ready-to-use development environment. It includes the correctly patched
 KallistiOS SDK (**`v2.1.x` branch** with the `fs_iso9660.patch` applied). This
