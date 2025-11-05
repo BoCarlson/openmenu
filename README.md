@@ -248,6 +248,7 @@ community. Special thanks to:
 - **HaydenKow (mrneo240):** For starting the original openMenu project.
 - **megavolt85:** For the version of openMenu this fork is based on, and work on
   the GDEMU SDK aspects.
+- **sbstnc** For documenting the build process, cleaning up code, and adding features
 - **u/westhinksdifferent:** For the UI design mockups.
 - **FlorreW, hasnopants, Roareye:** For their work on the Metadata Database.
 - **sonik-br:** For the GDMENUCardManager tool.
