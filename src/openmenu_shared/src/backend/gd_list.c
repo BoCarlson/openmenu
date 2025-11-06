@@ -450,7 +450,7 @@ fix_sega_serials(void) {
         }
         /* Fix Legacy of Kain: Soul Reaver (PAL) overlapping Legacy of Kain: Soul
      * Reaver (USA) */
-        if (!strcmp(item->product, "T36802N") && !strcmp(item->date, "19991220")) {
+        if (!strcmp(item->product, "T36802N") && !strcmp(item->region, "E")) {
             strcpy(item->product, "T36803D05");
         }
         /* Fix NBA2K2 (PAL) overlapping NBA2K2 (USA) */
